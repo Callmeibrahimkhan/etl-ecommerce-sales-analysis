@@ -25,7 +25,7 @@ Excel (Dirty Data) → Python (Pandas) → SQL Database → Power BI Dashboard
 | `ecommerce_unclean_data.xlsx` | Original raw dataset |
 | `data_cleaning_and_eda.ipynb` | Pandas cleaning, EDA & feature engineering |
 | `ecommerce_cleaned_data.csv` | Final cleaned dataset (exported from Python) |
-| `sql_queries.sql` | Table joins and analysis queries |
+| `sql_queries.sql` | Analysis queries |
 | `ecommerce_sales_dashboard.pbix` | Power BI dashboard file |
 | `dashboard_screenshot.png` | Preview image of the dashboard |
 | `project_workflow.md` | Full step-by-step breakdown of the pipeline |
